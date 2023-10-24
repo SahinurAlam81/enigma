@@ -30,7 +30,7 @@ public class EnigmaMachine {
 
     public static void main(String[] args){
         new MFrameBuilder()
-                .setTitle("Enigma - 17701086 - Maifee Ul Asad")
+                .setTitle("Enigma - 17701081 - Sahinur")
                 .setFullScreen()
                 .setRotors(rotors)
                 .setReflectors(reflectors)
